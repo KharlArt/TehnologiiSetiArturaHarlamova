@@ -14,7 +14,7 @@ class Blog extends PureComponent<Props, State> {
 
     render(): ReactNode {
         return (
-            <div>Super Interesting InfARTuration</div>
+            <div>Blog</div>
         )
     }
 }

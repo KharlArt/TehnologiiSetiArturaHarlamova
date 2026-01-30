@@ -14,7 +14,7 @@ class About extends PureComponent<Props, State> {
 
     render(): ReactNode {
         return (
-            <div>ArturGunDone</div>
+            <div>About</div>
         )
     }
 }
